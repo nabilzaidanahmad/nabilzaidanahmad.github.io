@@ -1,0 +1,17 @@
+body {
+  background-image: url(img/bacground.jpg);
+}
+
+.container {
+  width: 19%;
+  margin-top: 180px;
+}
+
+input {
+  margin-top: 20px;
+  text-align: center;
+}
+button {
+  margin-top: 5px;
+  width: 219px;
+}
