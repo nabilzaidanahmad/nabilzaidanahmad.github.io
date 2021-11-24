@@ -3,6 +3,10 @@ body {
 }
 
 .container {
+  grid-area: hero;
+  min-height: 350px;
+  background-image: url(img/bacground.jpg);
+  background-size: cover;
   width: 19%;
   margin-top: 180px;
 }
